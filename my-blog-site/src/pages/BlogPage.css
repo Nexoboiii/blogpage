@@ -1,0 +1,21 @@
+.blog-page {
+  padding: 2rem;
+  text-align: center;
+}
+.hero-image {
+  width: 55%;
+  height: 300px;
+  object-fit: cover;
+}
+.blog-list {
+  display: flex;
+  gap: 1rem;
+  border: 1px solid #cb1919;
+  border-radius: 10px;
+  padding: 10px;
+}
+.blog-item {
+  padding: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+}
