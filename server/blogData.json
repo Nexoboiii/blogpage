@@ -29,7 +29,7 @@
   },
   {
     "id": 5,
-    "title": "Yeet",
+    "title": "Yeetdeels",
     "summary": "A step-by-step guide to deploying your React app.",
     "content": "React apps can be deployed using platforms like Vercel, Netlify, or GitHub Pages. This guide walks you through building your app and pushing it live.",
     "image": "/images/post2.png"
